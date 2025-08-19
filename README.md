@@ -1,6 +1,7 @@
 # 📌 RESTful API with Flask – First Project
 
 โปรเจกต์นี้เป็นตัวอย่างการสร้าง RESTful API ครั้งแรกด้วย **Flask** และ **Flask-RESTful**  
+Credit : https://www.youtube.com/watch?v=AZfJ8buL5II 
 โดยเชื่อมต่อกับโมเดล Machine Learning (Linear Regression) ที่เทรนไว้แล้ว (`simple_linear_regression.pkl`)  
 เพื่อทำการทำนายยอดขายจากงบประมาณการตลาด (Marketing Budget)
 
@@ -46,3 +47,4 @@ Response
 ```bash
 "11"
 ```
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
